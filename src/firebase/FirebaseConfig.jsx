@@ -5,12 +5,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBbiC2zvtPwjjDn2vWgpi52Gg3_8PArwOo",
-  authDomain: "digital-emporium-bb2df.firebaseapp.com",
-  projectId: "digital-emporium-bb2df",
-  storageBucket: "digital-emporium-bb2df.appspot.com",
-  messagingSenderId: "893427731552",
-  appId: "1:893427731552:web:2b970f12bb391d7be90705"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "1:893427731552"
 };
 
 // Initialize Firebase
